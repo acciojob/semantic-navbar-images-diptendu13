@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+nav{
+	background-color: skyblue
+}
+a{
+	margin-right: 10px;
+	text-decoration: none;
+}
+
