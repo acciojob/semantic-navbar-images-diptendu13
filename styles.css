@@ -1,10 +1,24 @@
 
 /* Your CSS Code here. */
 nav{
-	background-color: skyblue
+	background-color: black;
 }
 a{
 	margin-right: 10px;
 	text-decoration: none;
+	font-size: 20px;
+	color: white;
+}
+ul{
+	padding-top: 20px;
+}
+h1{
+	color: white;
+	padding-left: 40px;
+}
+img{
+	
+	padding-left: 14px;
+	width: 200px;
 }
 
